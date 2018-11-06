@@ -10,7 +10,7 @@
   },
   "appType": "APP",
   "name": "DHIS2 event visualizer app",
-  "version": "31.0.1",
+  "version": "31.0.2",
   "description": "Event charts app",
   "developer": {
     "name": "DHIS2 visualization team"
@@ -18,5 +18,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Tue Oct 23 2018 08:52:36 GMT+0000 (UTC)"
+  "manifest_generated_at": "Tue Nov 06 2018 11:09:08 GMT+0000 (UTC)"
 }
