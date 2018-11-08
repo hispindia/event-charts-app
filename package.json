@@ -1,14 +1,6 @@
 {
   "name": "event-visualizer-app",
-  "version": "29.0.17",
   "description": "Event charts app",
-  "main": "index.html",
-  "keywords": [
-    "DHIS 2",
-    "HISP",
-    "Pivot"
-  ],
-  "author": "Jan Henrik Øverland",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/dhis2/event-charts-app#readme"
+  "version": "29.0.18"
 }
